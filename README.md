@@ -11,9 +11,12 @@ My second react proyect, a web store.
 - Forms + Components
 - Firebase + User Authentication
 - Redux
-
-## Next
 - Session Storage + Persistence
+  
+
+  
+## Next
+
 - Advanced Routing
 - State Normalization
 - Stripe Payments
