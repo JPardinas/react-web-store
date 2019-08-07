@@ -12,14 +12,13 @@ My second react proyect, a web store.
 - Firebase + User Authentication
 - Redux
 - Session Storage + Persistence
-  
+- Advanced Routing
+- State Normalization
+- Stripe Payments
 
   
 ## Next
 
-- Advanced Routing
-- State Normalization
-- Stripe Payments
 - CSS in JS-styled-components
 - Advanced Redux + Firebase
 - HOC Patterns
