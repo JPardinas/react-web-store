@@ -18,13 +18,14 @@ My second react proyect, a web store.
 - Advanced Routing
 - State Normalization
 - Stripe Payments
+- CSS in JS-styled-components
+- Advanced Redux + Firebase
+- HOC Patterns
 
   
 ## Next
 
-- CSS in JS-styled-components
-- Advanced Redux + Firebase
-- HOC Patterns
+
 - Asynchronous Redux
 - Container Pattern
 - Redux-Saga
