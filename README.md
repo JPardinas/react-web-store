@@ -1,11 +1,10 @@
 ## Home Site
+
 https://react-test-shop.herokuapp.com/
 
 ## React Web Store
 
 My second react proyect, a web store.
-
-
 
 ## Implemented
 
@@ -21,12 +20,10 @@ My second react proyect, a web store.
 - CSS in JS-styled-components
 - Advanced Redux + Firebase
 - HOC Patterns
+- Asynchronous Redux (redux-thunk)
 
-  
 ## Next
 
-
-- Asynchronous Redux
 - Container Pattern
 - Redux-Saga
 - React-Hooks
