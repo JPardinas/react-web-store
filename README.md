@@ -21,11 +21,11 @@ My second react proyect, a web store.
 - Advanced Redux + Firebase
 - HOC Patterns
 - Asynchronous Redux (redux-thunk)
+- Container Pattern
+- Redux-Saga
 
 ## Next
 
-- Container Pattern
-- Redux-Saga
 - React-Hooks
 - Api
 - GraphQL + Apollo
